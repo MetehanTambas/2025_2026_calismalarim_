@@ -1,0 +1,38 @@
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.exe
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.deps.json
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.runtimeconfig.json
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.dll
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.pdb
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form1.resources
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.csproj.GenerateResource.cache
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.AssemblyInfoInputs.cache
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.AssemblyInfo.cs
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.csproj.CoreCompileInputs.cache
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.dll
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\refint\Hesap Makinesi Ödevi.dll
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.pdb
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.genruntimeconfig.cache
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\ref\Hesap Makinesi Ödevi.dll
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form2.resources
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form3.resources
+F:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Properties.Resources.resources
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.exe
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.deps.json
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.runtimeconfig.json
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.dll
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\bin\Debug\net8.0-windows\Hesap Makinesi Ödevi.pdb
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form1.resources
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form2.resources
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Form3.resources
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap_Makinesi_Ödevi.Properties.Resources.resources
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.csproj.GenerateResource.cache
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.AssemblyInfoInputs.cache
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.AssemblyInfo.cs
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.csproj.CoreCompileInputs.cache
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.dll
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\refint\Hesap Makinesi Ödevi.dll
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.pdb
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\Hesap Makinesi Ödevi.genruntimeconfig.cache
+E:\Hesap Makinesi Ödevi\Hesap Makinesi Ödevi\obj\Debug\net8.0-windows\ref\Hesap Makinesi Ödevi.dll
