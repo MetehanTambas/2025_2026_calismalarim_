@@ -1,0 +1,10 @@
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.csproj.AssemblyReference.cache
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK_SINIFLAR__STATIC_CLASSES__2.Form1.resources
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK_SINIFLAR__STATIC_CLASSES__2.Properties.Resources.resources
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.csproj.GenerateResource.cache
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.csproj.CoreCompileInputs.cache
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\bin\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.exe.config
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\bin\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.exe
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\bin\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.pdb
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.exe
+C:\metehan tambas\STATİK SINIFLAR (STATIC CLASSES) 2\obj\Debug\STATİK SINIFLAR (STATIC CLASSES) 2.pdb
